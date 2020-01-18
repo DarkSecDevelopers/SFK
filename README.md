@@ -28,6 +28,7 @@ Fight your procrastination and save your time!
 
 #### TESTED ON FOLLOWING
 * **Arch Linux**
+* **Ubuntu 18.04**
 
 #### PREREQUISITES
 * Python 3
